@@ -15,7 +15,7 @@ A classic interactive **Rock, Paper, Scissors, Fire, Water** game built to pract
 
 ## 🛠️ Built With
 
-* **Language:** Python *(tkinter)*
+* **Language:** Python *(tkinter library)*
 * **Concepts Used:** Conditional Statements (`if-elif-else`), Loops, Functions, Random Module
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
